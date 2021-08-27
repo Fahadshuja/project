@@ -236,6 +236,7 @@ flex-grow: 1;
     width: 500px;
 }
 #collect-img6{
+    flex-grow: 1;
     width: 450px;
 }
 .collect-imgs img{
